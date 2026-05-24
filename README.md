@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F8EF2&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Sidra!;Flutter+%E2%9C%A8+%7C+Kotlin+%F0%9F%90%B1+%7C+AI+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%92%AC" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F8EF2&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Sidra!;Flutter+%E2%9C%A8+%7C+Kotlin+%F0%9F%90%B1+%7C+AI+%F0%9F%A4%96" alt="Typing Animation" />
 </p>
 
 <!-- Stylish Introduction -->
@@ -12,7 +12,7 @@
 <p align="center">
   I’m <b>Sidra</b>, a <b>Software Engineering Student</b> from Pakistan 🇵🇰.<br/>
   I specialize in <b>Mobile App Development</b> with <b>Flutter</b> and <b>Kotlin</b> 📱,<br/>
-  and have a burning passion for <b>AI</b> 🤖, <b>Machine Learning</b> 🧠,  🔐.<br/>
+  and have a burning passion for <b>AI</b> 🤖 and <b>Machine Learning</b> 🧠.<br/>
   I'm a UI/UX enthusiast 🎨, Firebase integrator 🔥, and always exploring new tech!<br/>
   <br/>
   <b>Building tomorrow's applications, today.</b>
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/AI%2FML-FFD43B?style=for-the-badge&logo=spaceship&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI%2FUX-F35A00?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hack-the-box&logoColor=white"/>
 </p>
 
 ---
@@ -70,7 +69,6 @@
   <img src="https://img.shields.io/badge/Google%20Certified-Associate%20Android%20Developer-brightgreen?style=for-the-badge&logo=google"/>
   <img src="https://img.shields.io/badge/Flutter%20Certified-Professional-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Coursera-orange?style=for-the-badge&logo=coursera"/>
-  <img src="https://img.shields.io/badge/Cybersecurity%20Basics-cybersec-yellowgreen?style=for-the-badge&logo=hack-the-box"/>
 </p>
 
 ---
