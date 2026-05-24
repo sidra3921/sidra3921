@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F8EF2&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Sidra!;Flutter+%E2%9C%A8+%7C+Kotlin+%F0%9F%90%B1+%7C+AI+%F0%9F%A4%96" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F8EF2&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Sidra!;Flutter+%E2%9C%A8+%7C+Kotlin+%F0%9F%90%B1+%7C+AI+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%92%AC" alt="Typing Animation" />
 </p>
 
 <!-- Stylish Introduction -->
