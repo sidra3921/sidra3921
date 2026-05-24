@@ -5,7 +5,7 @@
 
 <!-- Stylish Introduction -->
 <p align="center">
-  <img src="https://media.giphy.com/media/S6b1f6kXyyGwwzk2xW/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" />
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
