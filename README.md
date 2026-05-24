@@ -12,7 +12,7 @@
 <p align="center">
   I’m <b>Sidra</b>, a <b>Software Engineering Student</b> from Pakistan 🇵🇰.<br/>
   I specialize in <b>Mobile App Development</b> with <b>Flutter</b> and <b>Kotlin</b> 📱,<br/>
-  and have a burning passion for <b>AI</b> 🤖, <b>Machine Learning</b> 🧠, and <b>Cybersecurity</b> 🔐.<br/>
+  and have a burning passion for <b>AI</b> 🤖, <b>Machine Learning</b> 🧠,  🔐.<br/>
   I'm a UI/UX enthusiast 🎨, Firebase integrator 🔥, and always exploring new tech!<br/>
   <br/>
   <b>Building tomorrow's applications, today.</b>
